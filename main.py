@@ -11,8 +11,8 @@ Standard library only. No network, no randomness, no dependencies.
 import os
 
 ENTRY = (
-    "v4.7.2: fixed a bug where entering a room wiped the task queue; "
-    "users no longer stand in the doorway buffering with no idea why "
+    "v4.7.2: fixed a bug where crossing a doorway cleared the active "
+    "task; users no longer stand there buffering with no idea why "
     "they came in."
 )
 
