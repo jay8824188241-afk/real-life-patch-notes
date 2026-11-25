@@ -1,0 +1,1 @@
+v4.7.2: fixed a bug where entering a room wiped the task queue; users no longer stand in the doorway buffering with no idea why they came in.
